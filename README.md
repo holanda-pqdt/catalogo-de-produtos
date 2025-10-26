@@ -36,18 +36,7 @@ Preencha o formulário
 
 Clique em "Cadastrar Produto"
 
-- Arquivos do projeto
 
-pasta-do-projeto/
-├── index.html          (página principal)
-├── css/
-│   └── style.css      (estilos)
-└── js/
-    ├── app.js         (programa principal)
-    ├── storage.js     (armazenamento)
-    ├── router.js      (navegação)
-    ├── templates.js   (telas)
-    └── formValidator.js (validações)
     
 - Dicas
   
